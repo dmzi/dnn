@@ -79,7 +79,6 @@ public {
 	import dnn.network.model.IWeight;
 	import dnn.network.FeedForwardNetwork;
 	import dnn.network.Layer;
-	import dnn.network.MemoryNeuron;
 	import dnn.network.Neuron;
 	import dnn.network.Weight;
 }
