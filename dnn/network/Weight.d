@@ -15,7 +15,7 @@ class Weight : IWeight {
 	private INeuron m_from = null;
 	private INeuron m_to = null;
 	private float m_weight;
-	private float m_output;
+	private float m_output = 0.0f;
 	
 	/**
 	 *
