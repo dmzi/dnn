@@ -5,7 +5,9 @@
  *
  * Example:
  * ---
+ * import dnn.all;
  * import std.stdio;
+ *
  * void main() {
  *     writeln("creating feed forward network ...");
  *     IActivationFunction activationFunction = new SigmoidActivation();
